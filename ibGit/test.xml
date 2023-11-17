@@ -3,7 +3,7 @@
 	<Schueler>
 		<Klasse>AIA31</Klasse>
 		<Name>Jan</Name>
-		<Nachname>Schnitzel</Nachname>
+		<Nachname>Schnitzler</Nachname>  <!-- Seweke -->
 		<Alter>18</Alter>
 	</Schueler>
 </Wurzelelement>
