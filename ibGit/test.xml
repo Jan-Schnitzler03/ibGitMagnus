@@ -3,5 +3,6 @@
 	<Schueler>
 		<Klasse>AIA31</Klasse>
 		<Name>Jan</Name>
+		<Nachname>Schnitzel</Nachname>
 	</Schueler>
 </Wurzelelement>
